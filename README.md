@@ -1,4 +1,4 @@
-* Linear-Search
+  Linear-Search
 Add a Linear Search Code in any language of your choice! Take a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request.
 
 !! About Linear Search
@@ -51,4 +51,4 @@ Linear search is a very simple search algorithm. In this type of search, a seque
 |38| [Ciaran Evans](https://github.com/ciaranevans) | | UK | Lua |
 |39| [Balakumaran](https://github.com/webbalakumaran) | | India | Julia
 |40| [Janitha](https://github.com/janitha133) | | Sri Lanka | Java
-  
+   
